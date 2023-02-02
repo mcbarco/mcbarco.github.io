@@ -1,4 +1,9 @@
 # **Welcome to my GitHub page!**
 
-:star:  :cat:   :mushroom:  :waxing_crescent_moon:
+## ~~I don't know what to add here. ~~
 
+> Cats are cool 
+
+Here is my [GitHub Profile](https://github.com/mcbarco)
+
+### Thank you!
